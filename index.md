@@ -16,19 +16,17 @@ I also have a diploma in Mathe matical sciences.
 
 
 ###Skills
-- corel draw
-- illustration
 - HTML
-
++ Latex typing
++ ICDL skills
++ Java programming
 
 ###Languages
 - Persian(Advanced)
 - English(Normal)
 
 ###Licenses & Certifications
-+ Latex typing
-+ ICDL skills
-+ Java programming
++ Java 
 
 
 ###Other Accounts
