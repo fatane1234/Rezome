@@ -1,4 +1,4 @@
-https://github.com/fatane1234
+
 ### About Me
 I am fatane khavari  , born on 1995/10/5
 I am a bachelor student of PNU varamin University a major in computer software engineering, entrance 96;
