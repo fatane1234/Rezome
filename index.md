@@ -10,20 +10,20 @@ Personal Information
 - Marriage Status: Single
 
 
-. Skills
+ Skills
 - corel draw
 - illustration
 - HTML
 
 
-.Languages
+Languages
 - Persian(Advanced)
 - English(Normal)
 .Licenses & Certifications
 - ICDL1
 
 
-.Other Accounts
+Other Accounts
 
 - Gmail: fatanekarimi1234@gmail.com
 
