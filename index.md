@@ -1,7 +1,10 @@
-
-
 ### About Me
-I am fatane khavari I am studying computer engineering at PNU varamin University.
+I am fatane khavari  , born on 1995/10/5
+I am a bachelor student of PNU varamin University a major in computer software engineering, entrance 96;
+I also have a diploma in Mathe matical sciences.
+
+### phon number
+09220168188
 
 Personal Information
 - First Name: fatane
@@ -19,7 +22,8 @@ Personal Information
 Languages
 - Persian(Advanced)
 - English(Normal)
-.Licenses & Certifications
+
+Licenses & Certifications
 - ICDL1
 
 
