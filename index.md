@@ -1,4 +1,4 @@
-<img src=https://avatars1.githubusercontent.com//u//photo_%DB%B2%DB%B0%DB%B1%DB%B8-%DB%B0%DB%B5-%DB%B2%DB%B2_%DB%B0%DB%B9-%DB%B2%DB%B2-%DB%B1%DB%B1%20(2).jpg
+
 
 ### About Me
 I am fatane khavari  , born on 1995/10/5
