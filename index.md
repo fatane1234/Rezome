@@ -20,6 +20,8 @@ I also have a diploma in Mathe matical sciences.
 + Latex typing
 + ICDL skills
 + Java programming
++corel drow
+
 
 ###Languages
 - Persian(Advanced)
