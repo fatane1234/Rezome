@@ -30,6 +30,8 @@ I also have a diploma in Mathe matical sciences.
 ###Licenses & Certifications
 + Java 
 
+### Work Experience
++ Design and implementation of university curriculum projects (free of charge)
 
 ###Other Accounts
 
