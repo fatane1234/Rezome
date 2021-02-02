@@ -34,6 +34,6 @@ I also have a diploma in Mathe matical sciences.
 
 - Gmail: fatanekarimi1234@gmail.com
 
-- Quera Profile: My Profile
+- Quera Profile:https://quera.ir/profile/fatanekarimi1234
 
 Persian Resume: Resume
