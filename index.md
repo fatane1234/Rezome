@@ -15,23 +15,15 @@ I also have a diploma in Mathe matical sciences.
 - Birth Date: 1999/10/5
 - Marriage Status: Single
 
+##Skills
+- Nothing
 
-###Skills
-- HTML
-+ Latex typing
-+ ICDL skills
-+ Java programming
-+corel drow
-
-
-###Languages
+##Languages
 - Persian(Advanced)
 - English(Normal)
+- Deutsch(Normal)
 
-###Licenses & Certifications
-+ Java 
-
-### Work Experience
+# Work Experience
 + Design and implementation of university curriculum projects (free of charge)
 
 ###Other Accounts
